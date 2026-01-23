@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://qr.crowncoinscasino.site/sitemap.xml
